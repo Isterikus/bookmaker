@@ -1,3 +1,5 @@
 <?php
-echo "hi";
+
+include "views/header.php"
+
 ?>
